@@ -12,8 +12,6 @@ doc/source/api/
 releasenotes/build
 
 # Packages/installer info
-*.egg
-*.egg-info
 dist
 build
 eggs
